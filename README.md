@@ -116,3 +116,5 @@ Looking for **backend leaning new-grad roles**. If you're building something whe
 <p align="center">
   <sub>Pinned repos are where the real work lives. This is just the trailer.</sub>
 </p>
+
+Check out my [portfolio](https://aridsondez-five.vercel.app/)
