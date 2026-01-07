@@ -3,106 +3,67 @@
 </h1>
 
 <p align="center">
-  <b>Backend / Systems Software Engineer</b><br/>
-  CS @ UCF · Graduating May 2026
+  Backend / Systems-leaning Software Engineer
 </p>
 
 <p align="center">
-  <a href="https://aridsondez.vercel.app/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/aridsondez-jerome/">LinkedIn</a> ·
-  <a href="mailto:workaridsondez@gmail.com">Email</a>
+  <a href="https://aridsondez.vercel.app/">portfolio</a> ·
+  <a href="https://www.linkedin.com/in/aridsondez-jerome/">linkedin</a> ·
+  <a href="mailto:workaridsondez@gmail.com">email</a>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:4F8EF7,100:7A5FFF"/>
+</p>
 
 ### About
 
-I build backend-heavy systems with a focus on **distributed systems, real-time data pipelines, and performance-oriented services**.
+I’m interested in backend and systems work where correctness, performance, and failure modes actually matter.
 
-Most of my work lives close to the metal: queues, databases, async workers, telemetry pipelines, and systems that need to fail predictably.
+I enjoy working close to infrastructure: queues, databases, async workers, real-time services, and data pipelines that need to scale without becoming fragile.
 
-Previously **Software Engineering Intern @ EverBright (NextEra Energy)**, where I shipped production analytics used by tens of thousands of users.
-
----
-
-### Experience
-
-**Software Engineer Intern — EverBright (NextEra Energy)**  
-*San Francisco · Summer 2025*
-
-- Architected and shipped **Solar Year in Review**, a production analytics pipeline serving **30,000+ users**
-- Designed Django REST backend with PostgreSQL for time-series solar telemetry aggregation
-- Implemented **AWS SQS–backed async job processing** for 12 months of per-customer data
-- Reduced p95 latency to **~3s** via query optimization, indexing, and batching
-- Instrumented services with Datadog APM to surface ORM bottlenecks and background worker issues
+I previously worked on production systems at **EverBright (a NextEra Energy company)**.
 
 ---
 
-### Selected Projects
+### Direction
 
-**AWS SQS Lite**  
-*Go · PostgreSQL · Docker · Prometheus*  
-A production-style message queue inspired by AWS SQS.
-
-- At-least-once delivery with visibility timeouts and DLQs
-- Row-level locking and optimistic concurrency control
-- 10k+ msg/sec throughput under concurrent consumers
-- Prometheus metrics and health-checked containers
+- Backend / systems-focused **new-grad roles**
+- Distributed systems and data-heavy services
+- Infrastructure-adjacent product teams
 
 ---
 
-**CortexSearch**  
-*C++ · PostgreSQL · pgvector*  
-Offline semantic file search engine.
+### Engineering principles
 
-- Hybrid keyword + vector similarity retrieval
-- Multithreaded ingestion and embedding pipeline
-- Sub-200ms top-k query latency on local workloads
-- Designed for large document corpora (100k+ files)
+- Simple primitives over clever abstractions  
+- Measure first, optimize second  
+- Fail loudly and predictably  
+- Over-engineer early to avoid chaos later  
 
 ---
 
-**Solar Wrapped**  
-*Django · PostgreSQL · WebSockets*  
-Internal EverBright platform for homeowner solar analytics.
+### Tooling I reach for
 
-- Real-time telemetry aggregation
-- Async batch processing for annual summaries
-- Backend owned end-to-end in production
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,python,cpp,c,postgres,redis,docker,aws,linux&theme=dark" />
+</p>
 
 ---
 
-**Satellite VPP**  
-*Flask · Solana · PostgreSQL*  
-**Winner – Best Use of Solana (MDC Hackathon)**
+### Status
 
-- Event-driven backend for decentralized energy trading
-- Dynamic pricing and on-chain settlement
-- Sub-500ms API latency under load
-
----
-
-### Technical Focus
-
-**Languages**  
-Go · Python · C++ · C · SQL · JavaScript
-
-**Backend & Systems**  
-PostgreSQL · Redis · pgvector · Django · Flask · FastAPI · Node.js
-
-**Infra & Tooling**  
-Docker · AWS (SQS, S3, EC2) · Linux · Prometheus · Datadog · Git
-
----
-
-### Currently
-
-- Preparing for **backend / systems new-grad roles**
-- Deepening distributed systems and database internals
-- Building things that are intentionally over-engineered
-
----
+- Graduating **May 2026**
+- Actively preparing for backend-oriented interviews
+- Iterating on systems projects and infrastructure ideas
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F8EF7,100:2C3E50&height=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7A5FFF,100:4F8EF7"/>
+</p>
+
+<p align="center">
+  <sub>
+    Details live in pinned repositories.<br/>
+    This page is the filter.
+  </sub>
 </p>
