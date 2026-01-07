@@ -1,25 +1,108 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aridsondez Jerome
-=========================================================================================================================================
+<h1 align="center">
+  <span style="color:#4F8EF7;">Aridsondez Jerome</span>
+</h1>
 
-Software Engineer
------------------
-
-In addition to my academic pursuits, I am also deeply engaged in personal coding projects that allow me to explore diverse areas of interest within software engineering. These projects serve as my creative playground, where I can experiment with cutting-edge technologies, implement innovative solutions, and push the boundaries of my skills. Furthermore, I actively seek out mentorship opportunities and industry partnerships to gain practical insights and mentorship from seasoned professionals. By leveraging their expertise and guidance, I am able to navigate the complexities of the software engineering field with confidence and agility. My dedication to continuous learning extends beyond technical domains. I recognize the importance of cultivating a holistic skill set that encompasses leadership, problem-solving, and project management. Through participation in hackathons, workshops, and leadership seminars, I am constantly refining these skills and expanding my horizons as a well-rounded software engineering professional. Driven by a passion for innovation and a relentless pursuit of excellence, I am excited to embark on a journey of lifelong learning and growth in the dynamic world of software engineering. With a strong foundation in core concepts, a thirst for knowledge, and a commitment to making a difference, I am poised to contribute meaningfully to the ever-evolving landscape of technology.
-
-* 🌍  I'm based in Orlando, Florida
-* 🖥️  See my portfolio at [Aridsondez.com](http://aridsondez.github.io/Portfolio/)
-* ✉️  You can contact me at [workaridsondez@gmail.com](mailto:workaridsondez@gmail.com)
-* 🧠  I'm learning React.js and React Native
-
-### Skills
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
+<p align="center">
+  <b>Backend / Systems Software Engineer</b><br/>
+  CS @ UCF · Graduating May 2026
 </p>
 
-### Socials
+<p align="center">
+  <a href="https://aridsondez.vercel.app/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/aridsondez-jerome/">LinkedIn</a> ·
+  <a href="mailto:workaridsondez@gmail.com">Email</a>
+</p>
 
-<p align="left"> <a href="https://www.github.com/Aridsondez" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/aridsondez-jerome/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+---
 
-### Badges
+### About
 
+I build backend-heavy systems with a focus on **distributed systems, real-time data pipelines, and performance-oriented services**.
+
+Most of my work lives close to the metal: queues, databases, async workers, telemetry pipelines, and systems that need to fail predictably.
+
+Previously **Software Engineering Intern @ EverBright (NextEra Energy)**, where I shipped production analytics used by tens of thousands of users.
+
+---
+
+### Experience
+
+**Software Engineer Intern — EverBright (NextEra Energy)**  
+*San Francisco · Summer 2025*
+
+- Architected and shipped **Solar Year in Review**, a production analytics pipeline serving **30,000+ users**
+- Designed Django REST backend with PostgreSQL for time-series solar telemetry aggregation
+- Implemented **AWS SQS–backed async job processing** for 12 months of per-customer data
+- Reduced p95 latency to **~3s** via query optimization, indexing, and batching
+- Instrumented services with Datadog APM to surface ORM bottlenecks and background worker issues
+
+---
+
+### Selected Projects
+
+**AWS SQS Lite**  
+*Go · PostgreSQL · Docker · Prometheus*  
+A production-style message queue inspired by AWS SQS.
+
+- At-least-once delivery with visibility timeouts and DLQs
+- Row-level locking and optimistic concurrency control
+- 10k+ msg/sec throughput under concurrent consumers
+- Prometheus metrics and health-checked containers
+
+---
+
+**CortexSearch**  
+*C++ · PostgreSQL · pgvector*  
+Offline semantic file search engine.
+
+- Hybrid keyword + vector similarity retrieval
+- Multithreaded ingestion and embedding pipeline
+- Sub-200ms top-k query latency on local workloads
+- Designed for large document corpora (100k+ files)
+
+---
+
+**Solar Wrapped**  
+*Django · PostgreSQL · WebSockets*  
+Internal EverBright platform for homeowner solar analytics.
+
+- Real-time telemetry aggregation
+- Async batch processing for annual summaries
+- Backend owned end-to-end in production
+
+---
+
+**Satellite VPP**  
+*Flask · Solana · PostgreSQL*  
+**Winner – Best Use of Solana (MDC Hackathon)**
+
+- Event-driven backend for decentralized energy trading
+- Dynamic pricing and on-chain settlement
+- Sub-500ms API latency under load
+
+---
+
+### Technical Focus
+
+**Languages**  
+Go · Python · C++ · C · SQL · JavaScript
+
+**Backend & Systems**  
+PostgreSQL · Redis · pgvector · Django · Flask · FastAPI · Node.js
+
+**Infra & Tooling**  
+Docker · AWS (SQS, S3, EC2) · Linux · Prometheus · Datadog · Git
+
+---
+
+### Currently
+
+- Preparing for **backend / systems new-grad roles**
+- Deepening distributed systems and database internals
+- Building things that are intentionally over-engineered
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F8EF7,100:2C3E50&height=2"/>
+</p>
